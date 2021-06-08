@@ -1,45 +1,45 @@
 {
-  "fundingSources": [
-      {
-          "id": "BALANCEUSD",
-          "name": "Balance",
-          "type": "PAYPAL_BALANCE",
-          "sub_type": null,
-          "logo": {
-            "src": "https://www.paypalobjects.com/ui-web/wallet-icons/bank/PP_Balance_large.svg",
-            "size": {
-              "width": 42,
-              "height": 42
-            }
-          }
-      },
-      {
-          "id": "CHECKINGACC",
-          "name": "BANK OF AMERICA",
-          "type": "BANK",
-          "sub_type": "CHECKING",
-          "last_digits": 1884,
-          "logo": {
-            "src": "https://www.paypalobjects.com/ui-web/money-icons/bank/generic_bank.png",
-            "size": {
-              "width": 42,
-              "height": 42
-            }
-          }
-      },
-      {
-          "id": "SAVINGSACC",
-          "name": "FLEET BANK",
-          "type": "BANK",
-          "sub_type": "SAVINGS",
-          "last_digits": 8559,
-          "logo": {
-            "src": "https://www.paypalobjects.com/ui-web/money-icons/bank/generic_bank.png",
-            "size": {
-              "width": 42,
-              "height": 42
-            }
-          }
+  "fundingSources":[
+    {
+      "id":"BALANCEUSD",
+      "name":"Balance",
+      "type":"PAYPAL_BALANCE",
+      "sub_type":null,
+      "logo":{
+        "src":"https://www.paypalobjects.com/ui-web/wallet-icons/bank/PP_Balance_large.svg",
+        "size":{
+          "width":42,
+          "height":42
         }
+      }
+    },
+    {
+      "id":"CHECKINGACC",
+      "name":"Bank of America",
+      "type":"BANK",
+      "sub_type":"CHECKING",
+      "last_digits":1884,
+      "logo":{
+        "src":"https://www.paypalobjects.com/ui-web/money-icons/bank/bank_of_america.png",
+        "size":{
+          "width":42,
+          "height":42
+        }
+      }
+    },
+    {
+      "id":"SAVINGSACC",
+      "name":"Fleet Bank",
+      "type":"BANK",
+      "sub_type":"SAVINGS",
+      "last_digits":8559,
+      "logo":{
+        "src":"https://www.paypalobjects.com/ui-web/money-icons/bank/generic_bank.png",
+        "size":{
+          "width":42,
+          "height":42
+        }
+      }
+    }
   ]
 }
