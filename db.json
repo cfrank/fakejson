@@ -22,8 +22,7 @@
       "logo":{
         "src":"https://www.paypalobjects.com/ui-web/money-icons/bank/bank_of_america.png",
         "size":{
-          "width":42,
-          "height":42
+          "width":42
         }
       }
     },
@@ -36,8 +35,7 @@
       "logo":{
         "src":"https://www.paypalobjects.com/ui-web/money-icons/bank/generic_bank.png",
         "size":{
-          "width":42,
-          "height":42
+          "width":42
         }
       }
     }
